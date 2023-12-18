@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 - 🌐 Check out my portfolio [here]().
 - ✉️ Contact me at [gephrem130@gmail.com](mailto:gephrem130@gmail.com)
 - 🤝 Open to collaborating on interesting projects
-- ⚡ Fun fact: I'm secretly Spider-Man... but don't tell anybody 😉
+- ⚡ Fun fact: I'm secretly Bat-Man... but don't tell anybody 😉
 
 ## Skills
 
@@ -73,9 +73,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 </div>
 
 ### Prototyping and Collaboration:
-<div style="display: flex; align-items: center;">
-  <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="InVision" width="40" height="40">
-</div>
+
 
 ### Socials
 Connect with me on social media:
@@ -95,4 +93,4 @@ Connect with me on social media:
 ## Support Me
 
 If you like my work and want to support me:
-<a href="https://www.buymeacoffee.com/"><img src="https://www.buymeacoffee.com/ephremg/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/"><img src="https://www.buymeacoffee.com/ephremg/buttons/v2/default-yellow.png" width="200"/></a>

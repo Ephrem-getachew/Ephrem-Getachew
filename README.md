@@ -58,8 +58,6 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 ### Operating Systems and Servers:
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Terminal" width="40" height="40">
 </div>
 
 ### Hardware and IoT:

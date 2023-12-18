@@ -59,22 +59,13 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Terminal" width="40" height="40">
 </div>
 
 ### Hardware and IoT:
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40">
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40">
-</div>
-
-### Charting and Visualization:
-<div style="display: flex; align-items: center;">
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40">
-</div>
-
-### Prototyping and Collaboration:
-<div style="display: flex; align-items: center;">
-  <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="InVision" width="40" height="40">
 </div>
 
 ### Socials

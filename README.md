@@ -73,7 +73,9 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 </div>
 
 ### Prototyping and Collaboration:
-
+<div style="display: flex; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="InVision" width="40" height="40">
+</div>
 
 ### Socials
 Connect with me on social media:

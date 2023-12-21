@@ -6,7 +6,12 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 - 🌐 Check out my portfolio [here]().
 - ✉️ Contact me at [gephrem130@gmail.com](mailto:gephrem130@gmail.com)
 - 🤝 Open to collaborating on interesting projects
-- ⚡ Fun fact: I'm secretly Bat-Man... but don't tell anybody 😉
+- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Ephrem-Getachew)<br>
+
+## 🌐 Social Presence:
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ephremgetachew) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ephremxyx)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/Ephremxyz)
 
 ## Skills
 
@@ -59,19 +64,6 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
 </div>
-
-### Hardware and IoT:
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40">
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40">
-</div>
-
-### Socials
-Connect with me on social media:
-- [GitHub](https://www.github.com/Ephrem-Getachew)
-- [Instagram](http://www.instagram.com/ephremxyz)
-- [LinkedIn]()
-- [Twitter](https://www.twitter.com/ephremxyz)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ephrem-Getachew&theme=dark&hide_border=false)<br/>

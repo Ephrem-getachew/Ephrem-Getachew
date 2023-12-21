@@ -54,12 +54,6 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40">
 </div>
 
-### Testing and Quality Assurance:
-<div style="display: flex; align-items: center;">
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40">
-</div>
-
 ### Operating Systems and Servers:
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">

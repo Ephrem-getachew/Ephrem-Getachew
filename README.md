@@ -73,15 +73,6 @@ Connect with me on social media:
 - [LinkedIn]()
 - [Twitter](https://www.twitter.com/ephremxyz)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ephrem-Getachew&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
-
-![GitHub Commits Graph](https://activity-graph.herokuapp.com/graph?username=Ephrem-Getachew&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephrem-Getachew&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
-
-## Support Me
-
-If you like my work and want to support me:
-<a href="https://www.buymeacoffee.com/EphremG"><img src="https://cnd.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ephrem-Getachew&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephrem-Getachew&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)

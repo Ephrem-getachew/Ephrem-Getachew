@@ -73,6 +73,6 @@ Connect with me on social media:
 - [LinkedIn]()
 - [Twitter](https://www.twitter.com/ephremxyz)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ephrem-Getachew&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephrem-Getachew&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)

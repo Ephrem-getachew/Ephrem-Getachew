@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 - 🌐 Check out my portfolio [here]().
 - ✉️ Contact me at [gephrem130@gmail.com](mailto:gephrem130@gmail.com) 
 - 🤝 Open to collaborating on interesting projects
-- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Ephrem-Getachew)<br>  
+- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Ephrem-Getachew)<br>   
    
 ## 🌐 Social Presence:    
   

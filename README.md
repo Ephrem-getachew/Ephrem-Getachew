@@ -1,14 +1,14 @@
 # Hi there! ![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm EPHREM GETACHEW
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinsaye-simeneh&label=Profile%20views&color=0e75b6&style=flat" alt="tinsaye-simeneh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ephrem-Getachew&label=Profile%20views&color=0e75b6&style=flat" alt="Ephrem-Getachew" /> </p>
 
 ## 🌐 About me:
 <p I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning websites. Additionally, I'm an experienced UX researcher, and UI designer. I use Adobe XD and Figma for designing, ensuring exceptional user experiences.
 </p>
 - 👜 Some of UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/ephremgetachew)<br>
-- 🌐 Check out my portfolio [here]().
-- ✉️ Contact me at [gephrem130@gmail.com](mailto:gephrem130@gmail.com) 
-- 🤝 Open to collaborating on interesting projects
+- 🌐 Check out my portfolio [here]()<br>
+- ✉️ Contact me at [gephrem130@gmail.com](mailto:gephrem130@gmail.com) <br>
+- 🤝 Open to collaborating on interesting projects<br>
 - 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Ephrem-Getachew)<br>   
    
 ## 🌐 Social Presence:    

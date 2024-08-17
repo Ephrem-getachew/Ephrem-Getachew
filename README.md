@@ -49,7 +49,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 
 ### Design and Prototyping:
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40">
+  <img src="https://commons.wikimedia.org/wiki/File:Adobe_XD_CC_icon.svg" alt="Adobe XD" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40">
 </div> 

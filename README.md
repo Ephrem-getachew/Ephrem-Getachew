@@ -3,18 +3,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ephrem-Getachew&label=Profile%20views&color=0e75b6&style=flat" alt="Ephrem-Getachew" /> </p>
 
 ## 🌐 About me:
-<p I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning websites. Additionally, I'm an experienced UX researcher, and UI designer. I use Adobe XD and Figma for designing, ensuring exceptional user experiences.
-</p>
-- 👜 Some of UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/ephremgetachew)<br>
+<p I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning websites. Additionally, I'm an experienced UX researcher, and UI designer. I use Adobe XD and Figma for designing, ensuring exceptional user experiences. /> </p>
+
+
+- 👜 Some of UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/ephremgetachew) <br>
+
 - 🌐 Check out my portfolio [here]()<br>
+
 - ✉️ Contact me at [gephrem130@gmail.com](mailto:gephrem130@gmail.com) <br>
-- 🤝 Open to collaborating on interesting projects<br>
-- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Ephrem-Getachew)<br>   
+
+- 🤝 Open to collaborating on interesting projects <br>
+
+- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Ephrem-Getachew) <br>   
    
 ## 🌐 Social Presence:    
   
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ephremgetachew) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ephremxyx)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/Ephremxyz)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ephremgetachew) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ephremxyx)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/Ephremxyz)   
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ephremxyz)
+
 
 ## Skills
 
@@ -54,6 +62,8 @@
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
 </div>
+
+### Contributuon:
 
 [![Ephrem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ephrem-Getachew&theme=dracula)](https://github.com/Ephrem-Gtachew/github-readme-activity-graph)
 

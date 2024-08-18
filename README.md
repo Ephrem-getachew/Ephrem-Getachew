@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ephrem-Getachew&label=Profile%20views&color=0e75b6&style=flat" alt="Ephrem-Getachew" /> </p>
 
 ## 🌐 About me:
-<p I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning websites. Additionally, I'm an experienced UX researcher, and UI designer. I use Adobe XD and Figma for designing, ensuring exceptional user experiences. /> </p>
+<p I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning websites. Additionally, I'm an experienced UX researcher, and UI designer. I use Adobe XD and Figma for designing, ensuring exceptional user experiences.  </p>
 
 
 - 👜 Some of UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/ephremgetachew) <br>

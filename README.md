@@ -1,6 +1,6 @@
 # Hi there! ![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm EPHREM GETACHEW 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ephrem-Getachew&label=Profile%20views&color=0e75b6&style=flat" alt="Ephrem-Getachew" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ephremxyz&label=Profile%20views&color=0e75b6&style=flat" alt="Ephrem-Getachew" /> </p>
 
 ## 🌐 About me:
 <p> I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning websites. Additionally, I'm an experienced UX researcher, and UI designer. I use Adobe XD and Figma for designing, ensuring exceptional user experiences.  </p>
@@ -14,7 +14,7 @@
 
 - 🤝 Open to collaborating on interesting projects <br>
 
-- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Ephrem-Getachew) <br>   
+- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Ephremxyz) <br>   
    
 ## 🌐 Social Presence:    
   
@@ -65,8 +65,8 @@
 
 ### Contributuon:
 
-[![Ephrem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ephrem-Getachew&theme=dracula)](https://github.com/Ephrem-Gtachew/github-readme-activity-graph)
+[![Ephrem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ephrem-Getachew&theme=dracula)](https://github.com/Ephremxyz/github-readme-activity-graph)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ephrem-Getachew&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephrem-Getachew&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ephremxyz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephremxyz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)

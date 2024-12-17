@@ -65,7 +65,7 @@
 
 ### Contributuon:
 
-[![Ephrem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ephrem-Getachew&theme=dracula)](https://github.com/Ephremxyz/github-readme-activity-graph)
+[![Ephrem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ephremxyz&theme=dracula)](https://github.com/Ephremxyz/github-readme-activity-graph)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ephremxyz&theme=dark&hide_border=false)<br/>
